@@ -11,7 +11,7 @@ header {
 
 div {
     text-align: center;
-    margin-top: 75px;
+    margin-top: 50px;
     width: 50%;
     height: 500px;
     float: left;
@@ -25,4 +25,12 @@ footer {
     margin-left: 20px;    
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+a {
+    color: black;
+}
+
+a:hover{
+    color: blue;
 }
